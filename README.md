@@ -1,10 +1,10 @@
 # UNIX-like File System
 ## (C, UNIX, Filesystem, CLI, Shell Scripting)                                                                                                              
-•  Designed and implemented a UNIX-like file system module called FUFS
-•  Leveraged i-node blocks and data blocks to create and track the hierarchical directory structure of the file system
-•  Added full feature coverage with browsing, creating, deleting, moving, and listing abilities for files and directories
-•  Implemented system calls, user-level shell commands and basic file abstractions (block management, block maps, directories) to facilitate end-to-end interaction with the filesystem
-•  Performed disk reads and writes and utilized disk API to allow for persistent storage and restoration of file contents
+-  Designed and implemented a UNIX-like file system module called FUFS
+-  Leveraged i-node blocks and data blocks to create and track the hierarchical directory structure of the file system
+-  Added full feature coverage with browsing, creating, deleting, moving, and listing abilities for files and directories
+-  Implemented system calls, user-level shell commands and basic file abstractions (block management, block maps, directories) to facilitate end-to-end interaction with the filesystem
+-  Performed disk reads and writes and utilized disk API to allow for persistent storage and restoration of file contents
 
 ```
 .
